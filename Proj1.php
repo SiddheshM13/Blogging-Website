@@ -79,13 +79,6 @@
   	 right: 0;
 	}
 
-	p
-	{
-	 font-style: arial;
-	 font-size: 200%;
-	 color: red;
-	}
-
 	hr
 	{
 		color: currentColor;
