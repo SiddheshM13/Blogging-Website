@@ -85,11 +85,7 @@
 		width: 1px;
 		display: block;
 	}
-	h3
-	{
-		color:white;
-		font-family: georgia;
-	}
+
 	footer
 	{
 		background: url(blogger.jpg);
